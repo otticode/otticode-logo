@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="163.79747"
+   height="177.14992"
+   viewBox="0 0 163.79747 177.14992"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="o-bar-light-master.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1"
+     inkscape:cx="41"
+     inkscape:cy="69"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <g
+     id="cresent"
+     transform="translate(-23.645791,-10.204473)">
+    <path
+       style="fill:#238ad1;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 185.72656,89.03125 c -0.58984,-2.957031 -1.17969,-5.617188 -2.0664,-8.28125 5.01953,36.67969 -18.89454,71.58203 -55.80469,79.27344 -38.089845,7.6875 -75.296876,-16.86328 -83.269532,-55.3125 -6.789063,-32.24219 9.746093,-64.187502 38.386718,-78.089846 -40.75,11.832031 -66.4375,53.242187 -57.578125,95.539066 9.152344,44.66406 52.558594,73.0625 96.847659,63.89062 44.29297,-9.16797 72.64062,-52.64844 63.48437,-97.01953 z m 0,0"
+       id="path2" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;
+       font-variant:normal;
+       font-weight:bold;
+       font-stretch:normal;
+       font-size:157.421px;
+       line-height:1.25;
+       font-family:sans-serif;
+       -inkscape-font-specification:'sans-serif Bold Italic';
+       letter-spacing:0px;
+       word-spacing:0px;
+       fill:#93a1a1;
+       fill-opacity:1;
+       stroke:none;
+       stroke-width:1.07333"
+     x="27.481985"
+     y="134.37238"
+     id="obar"
+     transform="scale(0.98540731,1.0148088)"><tspan
+       sodipodi:role="line"
+       id="tspan62501"
+       x="27.481985"
+       y="134.37238"
+       style="stroke-width:1.07333;fill:#93a1a1;fill-opacity:1">Ō</tspan></text>
+</svg>
